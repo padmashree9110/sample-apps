@@ -155,10 +155,10 @@ Running `aero_fly_mission` example
 # Creating debian package 
 Go into respective ros-pacakge and run below command
 ```
-$make deb-pkg
+$ make deb-pkg
 ```
 ### Example:
  ```
- $ cd src/aero_telemetry_simple/aero_telemetry_simple
- $ make deb-pkg
+$ cd src/aero_telemetry_simple/aero_telemetry_simple
+$ make deb-pkg
  ```
