@@ -152,8 +152,13 @@ Running `aero_fly_mission` example
 # roslaunch aero_fly_mission aero_fly_mission.launch file:=<absolute path to QGC mission plan>
 ```
 
-# Creating Debian pcakages for ROS-examples
+# Creating Debian package 
+Go into respective ros-pacakge and run below command
+```
+$make deb-pkg
+```
+### Example:
  ```
  $ cd src/aero_telemetry_simple/aero_telemetry_simple
- $ make create_debian
+ $ make deb-pkg
  ```
