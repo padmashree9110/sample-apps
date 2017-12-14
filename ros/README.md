@@ -152,7 +152,7 @@ Running `aero_fly_mission` example
 # roslaunch aero_fly_mission aero_fly_mission.launch file:=<absolute path to QGC mission plan>
 ```
 
-# Creating Debian package 
+# Creating debian package 
 Go into respective ros-pacakge and run below command
 ```
 $make deb-pkg
