@@ -159,6 +159,6 @@ $ make deb-pkg
 ```
 ### Example:
  ```
-$ cd src/aero_telemetry_simple/aero_telemetry_simple
+$ cd src/aero_takeoff_land/aero_takeoff_land
 $ make deb-pkg
  ```
