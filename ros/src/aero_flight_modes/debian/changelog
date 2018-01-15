@@ -1,0 +1,13 @@
+ros-kinetic-aero-flight-modes (1.0.1) xenial; urgency=medium
+
+  * Bump pkg version
+
+ -- Shakthi Prashanth M <shakthi.prashanth.m@intel.com>  Fri, 29 Dec 2017 10:04:57 -0000
+
+ros-kinetic-aero-flight-modes (0.1.0-0xenial) xenial; urgency=medium
+
+  * Initial Release
+
+ -- Shakthi Prashanth M <shakthi.prashanth.m@intel.com>  Wed, 13 Dec 2017 10:04:57 -0000
+
+
